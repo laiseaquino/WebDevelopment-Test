@@ -1,5 +1,6 @@
 # Objetivo: #
 O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades como candidato à vaga de estagio em desenvolvimento de software. Este desafio deve ser feito individualmente.
+
 No nosso time, os projetos são sempre pensados na usabilidade, navegabilidade e experiência do usuário final.
 Sendo assim, levaremos em conta suas habilidades de User Experience (UE) e User Interface(UI) nesse desafio.
 Capriche no design!
