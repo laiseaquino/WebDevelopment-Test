@@ -1,5 +1,5 @@
 # Objetivo: #
-O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades como candidato à vaga de estagio em desenvolvimento de software. Este desafio deve ser feito individualmente.
+O objetivo deste desafio é permitir uma melhor avaliação das suas habilidades como candidato à vaga de fullstack developer. Este desafio deve ser feito individualmente.
 
 No nosso time, os projetos são sempre pensados na usabilidade, navegabilidade e experiência do usuário final.
 Sendo assim, levaremos em conta suas habilidades de User Experience (UE) e User Interface(UI) nesse desafio.
@@ -28,3 +28,4 @@ Hoje em dia é comum empresas lançarem uma nova campanha de marketing através 
   1. Documentação do app desenvolvido;
   2. Usar técnicas para tratar erros dos serviços utilizados (Recomendado usar o padrão Circuit Breaker pelo menos);
   3. Criar testes unitários para as features;
+  4. Rodar a aplicação na nuvem(Recommendado IBM cloud)
